@@ -23,7 +23,7 @@ The app provides a functional and visually appealing summary component where use
 
 # live link for the component 
 
-[Frontend Mentor Challenge]([https://www.frontendmentor.io/challenges/summary-component-8vV3v5T1](https://frontend-mentor-summary-component.netlify.app))
+[Frontend Mentor Challenge]([https://www.frontendmentor.io/challenges/summary-component-8vV3v5T1](https://frontend-mentor-summary-component.netlify.app/))
 
 
 # summary-component design 
